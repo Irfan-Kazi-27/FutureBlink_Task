@@ -14,6 +14,7 @@ const historySchema = new mongoose.Schema(
     },
     {
         timestamps: true,
+        collection: "Future_blink",
     }
 );
 

@@ -114,7 +114,7 @@ function App() {
         )}
 
         {/* Flow Canvas */}
-        <div className="flex-1 flex items-center justify-center gap-0">
+        <div className="flex-1 flex items-start justify-center gap-0 overflow-y-auto py-10">
           <InputNode
             value={prompt}
             onChange={setPrompt}

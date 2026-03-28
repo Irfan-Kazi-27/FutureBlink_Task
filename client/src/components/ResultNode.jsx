@@ -1,6 +1,6 @@
 const ResultNode = ({ response, loading }) => {
     return (
-        <div className="bg-gray-800 border border-gray-600 rounded-2xl p-5 w-72 shadow-lg shadow-black/40 min-h-[172px]">
+        <div className="bg-gray-800 border border-gray-600 rounded-2xl p-5 w-72 shadow-lg shadow-black/40 min-h-[172px] max-h-[65vh] overflow-y-auto">
             {/* Node Header */}
             <div className="flex items-center gap-2 mb-3">
                 <div className="w-2.5 h-2.5 rounded-full bg-emerald-400" />
