@@ -2,6 +2,8 @@
 
 A full-stack AI Flow application built with the **MERN stack** (MongoDB, Express, React, Node.js) and styled with **Tailwind CSS**. It features a visual flow interface where users can input prompts, get AI-generated results via the [OpenRouter API](https://openrouter.ai/), and view prompt history stored in a local MongoDB database.
 
+#NOTE:- THE API SECRET IS EXPIRY WITHIN 24 HOURS 
+
 ---
 
 ## 🚀 Tech Stack
